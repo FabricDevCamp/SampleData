@@ -1,11 +1,11 @@
 ﻿ProductId,Product,Category,List Price,Product Image
-1,Apples,Fruits,0.75,http://classresources.blob.core.windows.net/images/Apples.png
-2,Bananas,Fruits,0.95,http://classresources.blob.core.windows.net/images/Bananas.png
-3,Oranges,Fruits,1.25,http://classresources.blob.core.windows.net/images/Oranges.png
-4,Carrots,Vegetables,0.95,http://classresources.blob.core.windows.net/images/Carrots.png
-5,Cucumbers,Vegetables,2.25,http://classresources.blob.core.windows.net/images/Cucumbers.png
-6,Potatoes,Vegetables,1.25,http://classresources.blob.core.windows.net/images/Potatoes.png
-7,Tomatoes,Vegetables,1.75,http://classresources.blob.core.windows.net/images/Tomatoes.png
-8,Milk,Dairy,2.5,http://classresources.blob.core.windows.net/images/Milk.png
-9,Butter,Dairy,2.25,http://classresources.blob.core.windows.net/images/Butter.png
-10,Cheese,Dairy,3.75,http://classresources.blob.core.windows.net/images/Cheese.png
+1,Porsche 911,Sports Car,55000,http://classresources.blob.core.windows.net/images/Porsche 911.png
+2,BMW Z4,Sports Car,55000,http://classresources.blob.core.windows.net/images/BMW Z4.png
+3,Corvette,Sports Car,70000,http://classresources.blob.core.windows.net/images/Corvette.png
+4,Tacoma,Pickup Truck,0.95,http://classresources.blob.core.windows.net/images/Tacoma.png
+5,F-150,Pickup Truck,32000,http://classresources.blob.core.windows.net/images/F-150.png
+6,Silverado,Pickup Truck,38000,http://classresources.blob.core.windows.net/images/Silverado.png
+7,Ford Edge,Family Car,42000,http://classresources.blob.core.windows.net/images/Ford Edge.png
+8,Cyber Truck,Family Car,78000,http://classresources.blob.core.windows.net/images/Cyber Truck.png
+9,AMC Pacer,Family Car,22000,http://classresources.blob.core.windows.net/images/AMC Pacer.png
+10,Yugo,Family Car,18000,http://classresources.blob.core.windows.net/images/Yugo.png
