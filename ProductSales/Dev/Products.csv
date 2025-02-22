@@ -1,11 +1,13 @@
 ﻿ProductId,Product,Category
-1,Apples,Fruits
-2,Bananas,Fruits
-3,Oranges,Fruits
-4,Carrots,Vegetables
-5,Cucumbers,Vegetables
-6,Potatoes,Vegetables
-7,Tomatoes,Vegetables
-8,Milk,Dairy
-9,Butter,Dairy
-10,Cheese,Dairy
+1,Product1,Category A
+2,Product2,Category A
+3,Product3,Category A
+4,Product4,Category A
+5,Product5,Category B
+6,Product6,Category B
+7,Product7,Category B
+8,Product8,Category B
+9,Product9,Category C
+10,Product10,Category C
+11,Product11,Category C
+12,Product12,Category D
