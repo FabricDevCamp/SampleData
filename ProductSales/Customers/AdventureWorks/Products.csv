@@ -1,11 +1,13 @@
-﻿ProductId,Product,Category,List Price,Product Image
-1,Porsche 911,Sports Car,55000,http://classresources.blob.core.windows.net/images/Porsche 911.png
-2,BMW Z4,Sports Car,55000,http://classresources.blob.core.windows.net/images/BMW Z4.png
-3,Corvette,Sports Car,70000,http://classresources.blob.core.windows.net/images/Corvette.png
-4,Tacoma,Pickup Truck,0.95,http://classresources.blob.core.windows.net/images/Tacoma.png
-5,F-150,Pickup Truck,32000,http://classresources.blob.core.windows.net/images/F-150.png
-6,Silverado,Pickup Truck,38000,http://classresources.blob.core.windows.net/images/Silverado.png
-7,Ford Edge,Family Car,42000,http://classresources.blob.core.windows.net/images/Ford Edge.png
-8,Cyber Truck,Family Car,78000,http://classresources.blob.core.windows.net/images/Cyber Truck.png
-9,AMC Pacer,Family Car,22000,http://classresources.blob.core.windows.net/images/AMC Pacer.png
-10,Yugo,Family Car,18000,http://classresources.blob.core.windows.net/images/Yugo.png
+﻿ProductId,Product,Category
+1,Road-350,Bikes
+2,Road-750,Bikes
+3,Mountain-500,Bikes
+4,Touring-3000,Bikes
+5,Road Frame,Components
+6,Mountain Frame,Components
+7,Mountain Bottle Cage,Components
+8,Road Bottle Cage,Components
+9,Men's Bib-Shorts,Clothing
+10,Women's Tights,Clothing
+11,Classic Vest,Clothing
+12,Racing Socks,Clothing
